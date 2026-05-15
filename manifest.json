@@ -1,0 +1,8 @@
+{
+  "name": "John Commentary",
+  "short_name": "John",
+  "start_url": "/john-commentary/",
+  "display": "standalone",
+  "background_color": "#f8f9fc",
+  "theme_color": "#2c4a7c"
+}
